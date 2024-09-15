@@ -1,0 +1,40 @@
+Choose an option:
+1. Find anagrams
+2. Find sub-anagrams
+Enter your choice (1 or 2): 2
+Enter a word: tuna
+Enter the filename containing the list of words: short.txt
+Sub-anagrams found for the word 'tuna':
+1. aunt
+2. tuna
+akanwe1@k123163 lab-0-learning-github-classroom-Wiz1702 % ./main
+Choose an option:
+1. Find anagrams
+2. Find sub-anagrams
+Enter your choice (1 or 2): 1
+Enter a word: hear
+Enter the filename containing the list of words: short.txt
+Anagrams found for the word 'hear':
+1. hear
+2. hare
+akanwe1@k123163 lab-0-learning-github-classroom-Wiz1702 % ./main
+Choose an option:
+1. Find anagrams
+2. Find sub-anagrams
+Enter your choice (1 or 2): 1
+Enter a word: skon
+Enter the filename containing the list of words: short.txt
+Anagrams found for the word 'skon':
+1. skon
+2. kons
+akanwe1@k123163 lab-0-learning-github-classroom-Wiz1702 % 
+akanwe1@k123163 lab-0-learning-github-classroom-Wiz1702 % ./main
+Choose an option:
+1. Find anagrams
+2. Find sub-anagrams
+Enter your choice (1 or 2): 1
+Enter a word: joel
+Enter the filename containing the list of words: short.txt
+Anagrams found for the word 'joel':
+1. joel
+2. eljo
